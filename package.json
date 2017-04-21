@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "Plumber Ayrshire",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "A website for plumbing in ayrshire",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
