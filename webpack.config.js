@@ -27,6 +27,7 @@ module.exports = {
       Nav: 'app/components/Nav',
       About: 'app/components/About',
       Home: 'app/components/Home',
+      Contact: 'app/components/Contact',
       applicationStyles: 'app/styles/app.scss'
     },
     extensions: ['', '.js', '.jsx']

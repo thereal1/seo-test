@@ -1,7 +1,8 @@
-.link {
-  color: $link-color;
+.link, .link:visited {
+  color: $link-color !important;
+  font-family: verdana;
 }
 
 .link:hover {
-  color: $link-color-hover;
+  color: $link-color-hover !important;
 }
